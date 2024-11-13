@@ -4,7 +4,9 @@ This repository houses syllabi for the James Kemper's economic classes taught at
 
 - [Fall 2023](https://github.com/jameskemper/TTU_syllabi/tree/main/Fall%202023) 
 - [Spring 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Fall%202024) 
-
+- [Summer I 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Summer%20I%202024)
+- [Summer II 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Summer%20II%202024)
+- [Fall 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Fall%202024) 
 
 
 ## Contact
