@@ -7,7 +7,7 @@ This repository has course syllabi for the James Kemper's economic classes taugh
 - [Summer I 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Summer%20I%202024)
 - [Summer II 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Summer%20II%202024)
 - [Fall 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/Fall%202024)
-- [Spring 2024](https://github.com/jameskemper/TTU_syllabi/tree/main/SPring%202024)
+- [Spring 2025](https://github.com/jameskemper/TTU_syllabi/tree/main/Spring%202025)
 
 
 ## Contact
